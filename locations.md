@@ -1,3 +1,6 @@
 # Where are we all from? 🌏  
-Chicago, IL 
-Little Rock, AR
+
+Chicago, IL  
+Boston, MA 
+Little Rock, AR  
+
