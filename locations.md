@@ -1,2 +1,5 @@
 # Where are we all from? 🌏
-Kerala
+Kerala 
+Chicago, IL 
+Little Rock, AR 
+
